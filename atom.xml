@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-19T03:44:52.910Z</updated>
+  <updated>2020-12-01T01:02:58.633Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java jdk-9 API 汉化帮助文档</title>
+    <link href="http://example.com/2020/12/01/JavaAPI/"/>
+    <id>http://example.com/2020/12/01/JavaAPI/</id>
+    <published>2020-12-01T00:44:14.663Z</published>
+    <updated>2020-12-01T01:02:58.633Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文具有Java jdk-9_汉化版.CHM文件以供初入门的“小白”Java工程师们查阅，可以通过该文件查阅某些系统类，及其在哪个包下、成员函数等。</p><a id="more"></a><h2 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h2><h3 id="Java-API"><a href="#Java-API" class="headerlink" title="Java API"></a>Java API</h3><p>具体链接:<a href="https://pan.baidu.com/s/1IrtICBOuCvWTwH0nbInntg">https://pan.baidu.com/s/1IrtICBOuCvWTwH0nbInntg</a>    提取码：wsq6   注：该链接永久有效</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本文具有Java jdk-9_汉化版.CHM文件以供初入门的“小白”Java工程师们查阅，可以通过该文件查阅某些系统类，及其在哪个包下、成员函数等。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Java" scheme="http://example.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
